@@ -1,6 +1,6 @@
 {
   "name": "@retherswap/default-token-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Retherswap default token list",
   "main": "build/retherswap-default.tokenlist.json",
   "scripts": {
