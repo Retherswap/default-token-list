@@ -25,14 +25,6 @@
       "decimals": 18,
       "chainId": 622277,
       "logoURI": "https://raw.githubusercontent.com/Retherswap/Default-token-list/main/tokens/0x12F2b8a966DF38DAAF2f0664caE1c525F3960427/logo.png"
-    },
-    {
-      "name": "AI1 Token",
-      "address": "0xE8e7ff195968353528c2CBe158F3828227CbB751",
-      "symbol": "AI1",
-      "decimals": 18,
-      "chainId": 622277,
-      "logoURI": "https://raw.githubusercontent.com/Retherswap/Default-token-list/main/tokens/0xE8e7ff195968353528c2CBe158F3828227CbB751/logo.png"
     }
   ]
 }
