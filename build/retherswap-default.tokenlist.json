@@ -7,8 +7,8 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/Retherswap/Default-token-list/main/tokens/0x0000000000079c645A9bDE0Bd8Af1775FAF5598A/logo.png",
-  "keywords": ["Retherswap", "Rethereum"],
+  "logoURI": "https://raw.githubusercontent.com/Retherswap/default-token-list/main/supported_chains/hypra/0x0000000000079c645A9bDE0Bd8Af1775FAF5598A/logo.png",
+  "keywords": ["Retherswap", "Hypra"],
   "tokens": [
     {
       "name": "Wrapped Hypra",
